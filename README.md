@@ -23,3 +23,8 @@ https://medium.com/@noorfatimaafzalbutt/the-magic-of-column-transformer-in-machi
 Draft Notes:
 
 Develop a machine learning model to predict crop yields based on factors like weather conditions, soil quality, and historical crop data.
+
+Dataset:
+https://www.kaggle.com/code/kushagranull/crop-yield-prediction
+
+https://www.fao.org/faostat/en/#data/QCL%22
